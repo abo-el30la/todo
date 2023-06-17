@@ -3,7 +3,6 @@ package com.proprog.todo.controller;
 import com.proprog.todo.model.ToDo;
 import com.proprog.todo.model.ToDoList;
 import com.proprog.todo.service.ToDoService;
-import com.proprog.todo.service.ToDoServiceImpl;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,5 @@
 package com.proprog.todo.service;
 
-import com.proprog.todo.exception.ToDoException;
 import com.proprog.todo.exception.ToDoNotFoundException;
 import com.proprog.todo.model.ToDo;
 import com.proprog.todo.model.ToDoList;
